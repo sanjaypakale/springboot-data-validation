@@ -1,2 +1,2 @@
 # springboot-data-validation
-Demonstration of requestion validation using javax.validation
+Demonstration of request payload validation using javax.validation
